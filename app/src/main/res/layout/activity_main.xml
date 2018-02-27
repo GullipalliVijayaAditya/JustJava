@@ -33,7 +33,6 @@
         <Button
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:layout_marginBottom="16dp"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:onClick="decrement"
@@ -68,6 +67,7 @@
         android:layout_marginBottom="16dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
         android:text="price"
         android:textAllCaps="true"
         android:textColor="#000000"
